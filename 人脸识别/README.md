@@ -1,1 +1,9 @@
-
+**ArcFace:** 
+Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.pdf
+使用backbone后面接的权重向量与backbone输出特征向量做余弦相似度再NLL，还添加了angle margin penalty，做了ArcFace+CosFace+SphereFace的实验。
+**AdaFace:**
+Kim_AdaFace_Quality_Adaptive_Margin_for_Face_Recognition_CVPR_2022_paper.pdf
+融合ArcFace和CosFace、添加了基于backbone输出特征向量计算范数的图像质量评估指标的margin penalty，缝合+图像质量惩罚。
+**SER-FIQ:**
+Terhorst_SER-FIQ_Unsupervised_Estimation_of_Face_Image_Quality_Based_on_Stochastic_CVPR_2020_paper.pdf
+提出了一种基于任意人脸识别模型的人脸质量评估的方法

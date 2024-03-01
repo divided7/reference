@@ -17,3 +17,10 @@ Kim_AdaFace_Quality_Adaptive_Margin_for_Face_Recognition_CVPR_2022_paper.pdf
 Terhorst_SER-FIQ_Unsupervised_Estimation_of_Face_Image_Quality_Based_on_Stochastic_CVPR_2020_paper.pdf
 
 提出了一种基于任意人脸识别模型的人脸质量评估的方法
+
+
+**DigiFace-1M:**
+
+DigiFace-1M_1_Million_Digital_Face_Images_for_Face_Recognition_WACV_2023_paper.pdf
+
+提出了。。。
